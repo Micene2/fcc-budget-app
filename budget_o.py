@@ -1,3 +1,4 @@
+# add this to your project for testing
 class Category:
   """objects based on different budget categories"""
   # static/ Class scope
